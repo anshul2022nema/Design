@@ -20,3 +20,6 @@ git --configure user.email "uremail"
 <br>
 
 cd- change directory
+up to date
+change- modify
+new file- untrached 
