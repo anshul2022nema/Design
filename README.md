@@ -20,8 +20,23 @@ git --configure user.email "uremail"
 <br>
 
 cd- change directory
+<br>
 up to date
+<br>
+
 change- modify
-new file- untrached  
+<br>
+
+new file- untrached
+<br>
+
 cd ..- to go back from the current file
+<br>
+
 git push origin main > push folder to origin directory with main branch
+<br>
+
+mkdir LocalRepo- make new folder in name of LocalRepo
+<br>
+init-  make reposetary to git reposetory
+<br>
