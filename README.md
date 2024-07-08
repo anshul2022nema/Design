@@ -40,3 +40,18 @@ mkdir LocalRepo- make new folder in name of LocalRepo
 <br>
 init-  make reposetary to git reposetory
 <br>
+git remote add origin- adding remote origin
+<br>
+git remote -v- to verify remote
+<br>
+git branch- to check branch
+<br>
+git branch -M main - to rename branch
+<br>
+git push origin main
+<br>
+git checkout <- branch name -> (to navigate)
+<br>
+git checkout -b <-new branch name->  (to create new branch)
+<br>
+git branch -d <- branch name-> (to delete branch)
