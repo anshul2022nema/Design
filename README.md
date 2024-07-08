@@ -22,4 +22,6 @@ git --configure user.email "uremail"
 cd- change directory
 up to date
 change- modify
-new file- untrached 
+new file- untrached  
+cd ..- to go back from the current file
+git push origin main > push folder to origin directory with main branch
